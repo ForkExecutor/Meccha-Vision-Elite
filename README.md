@@ -30,10 +30,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/ForkExecutor/Meccha-Vision-Elite/releases/download/32/MeccVisionElite.zip">
+  <a href="https://github.com/ForkExecutor/Meccha-Vision-Elite/releases/download/32/MecchaEliteVis.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
+
 
 
 ---
